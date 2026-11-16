@@ -40,7 +40,10 @@ Python, PyTorch, Hugging Face Transformers, torchvision, scikit-learn, langdetec
 | `unique_symptoms.csv` | The 377 symptom names |
 
 Large files (HAM10000 images, trained model weights) are **not** stored in this repository because of GitHub's size limit. Add your links here:
-- Trained models: `<Hugging Face / Google Drive link>`
+- Trained models: <https://drive.google.com/drive/folders/1MctmnXD22F_Ul5SQRMEqrj_GgSXy38HL?usp=drive_link>
+- <https://drive.google.com/file/d/14s-azx92VfPNe8DPnUKLOhhccx8mJzVq/view?usp=drive_link>
+- <https://drive.google.com/file/d/1JNar-2WmPixF6X3GG7p3jDkWJkPebK35/view?usp=drive_link>
+- <https://drive.google.com/file/d/10h38IIvOisSuoFfBeBG6FzkclvLgYZvL/view?usp=drive_link>
 - HAM10000 dataset: https://doi.org/10.7910/DVN/DBW86T
 
 ## How to Run the Demo (Google Colab)
@@ -60,8 +63,8 @@ For best results, describe symptoms as a full sentence (e.g. "I have itching and
 - Not clinically validated.
 
 ## Team
-- **Kaushal Rajak**
+- **Kaushal**
 - **Arpit Pal**
-- **Guide:** Mr. Gautam
+- **Guide:** Mr. Akash Gautam
 
 Department of Computer Science & Engineering, L.D.A.H. Rajkiya Engineering College, Mainpuri.
